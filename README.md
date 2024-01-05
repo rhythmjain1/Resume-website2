@@ -1,1 +1,1 @@
-This project is just for learning purpose
+This project is just for learning Html and CSS 
